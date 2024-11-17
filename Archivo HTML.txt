@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Proyecto de Vida</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #0056b3;
+            padding: 10px 0;
+        }
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        footer {
+            text-align: center;
+            padding: 15px 0;
+            background-color: #007bff;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mi Proyecto de Vida</h1>
+        <p>Inspirado en mis sueños como contadora pública y futura auditora.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#mision">Misión</a></li>
+            <li><a href="#vision">Visión</a></li>
+            <li><a href="#valores">Valores</a></li>
+            <li><a href="#objetivos">Objetivos</a></li>
+            <li><a href="#foda">Análisis FODA</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="mision">
+            <h2>Misión Personal</h2>
+            <p>Mi misión es formarme como una contadora pública responsable, ética y competente, con el propósito de aportar valor a las organizaciones y contribuir al desarrollo económico mediante servicios de auditoría y contabilidad de alta calidad.</p>
+        </section>
+        <section id="vision">
+            <h2>Visión Personal</h2>
+            <p>Para el año 2030, seré una auditora reconocida por mi compromiso con la excelencia, ética y profesionalismo, liderando una firma de auditoría que inspire confianza y transparencia en el sector empresarial.</p>
+        </section>
+        <section id="valores">
+            <h2>Valores</h2>
+            <ul>
+                <li>Responsabilidad</li>
+                <li>Integridad</li>
+                <li>Ética</li>
+                <li>Compromiso</li>
+                <li>Innovación</li>
+                <li>Transparencia</li>
+            </ul>
+        </section>
+        <section id="objetivos">
+            <h2>Objetivos</h2>
+            <h3>A Largo Plazo</h3>
+            <ul>
+                <li>Terminar mi carrera universitaria con excelencia académica.</li>
+                <li>Obtener la certificación como revisora fiscal.</li>
+                <li>Adquirir experiencia laboral relevante en auditoría.</li>
+                <li>Establecer una base financiera sólida.</li>
+                <li>Crear mi propia firma de auditoría.</li>
+            </ul>
+            <h3>A Corto Plazo</h3>
+            <ul>
+                <li>Completar mis materias clave con un promedio superior a 4.0.</li>
+                <li>Participar en prácticas profesionales en auditoría.</li>
+                <li>Inscribirme en cursos adicionales sobre NIIF y tributación.</li>
+            </ul>
+        </section>
+        <section id="foda">
+            <h2>Análisis FODA</h2>
+            <h3>Fortalezas</h3>
+            <ul>
+                <li>Buen manejo de números y análisis.</li>
+                <li>Habilidades organizativas y planificación.</li>
+                <li>Dedicación al aprendizaje continuo.</li>
+            </ul>
+            <h3>Oportunidades</h3>
+            <ul>
+                <li>Acceso a cursos y certificaciones especializadas.</li>
+                <li>Redes de contacto en el ámbito profesional.</li>
+            </ul>
+            <h3>Debilidades</h3>
+            <ul>
+                <li>Falta de experiencia laboral actual.</li>
+                <li>Necesidad de mejorar habilidades de comunicación.</li>
+            </ul>
+            <h3>Amenazas</h3>
+            <ul>
+                <li>Alta competencia en el mercado laboral.</li>
+                <li>Cambios normativos o económicos.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 - Mi Proyecto de Vida | Desarrollado con dedicación</p>
+    </footer>
+</body>
+</html>
